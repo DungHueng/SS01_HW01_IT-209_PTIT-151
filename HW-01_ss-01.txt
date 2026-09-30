@@ -1,0 +1,51 @@
+1. Front-end
+*Lý do chọn công việc:
+Nhu cầu tuyển dụng cao vì hầu hết website và web application đều cần Front-end.
+Công việc kết hợp giữa lập trình và xây dựng giao diện, phù hợp với người thích tạo ra sản phẩm trực quan.
+Có nhiều hướng phát triển: Junior → Middle → Senior → Tech Lead.
+Có thể làm việc với nhiều công nghệ như React, Vue, Angular.
+Có cơ hội tham gia nhiều loại dự án: thương mại điện tử, ngân hàng, giáo dục, giải trí...
+
+*Kinh nghiệm/kỹ năng cần có:
+Nắm vững HTML, CSS, JavaScript.
+Biết ít nhất một framework như React, Vue hoặc Angular.
+Có kinh nghiệm gọi và xử lý REST API.
+Biết Git/GitHub.
+Hiểu Responsive Web Design.
+Biết debug bằng Chrome DevTools.
+Có thể đọc thiết kế từ Figma.
+
+2. AI Engineer
+*Lý do nên chọn:
+Phù hợp với người yêu thích AI, Machine Learning và lập trình.
+Có thể tham gia xây dựng các sản phẩm như chatbot, hệ thống nhận diện hình ảnh, hệ thống đề xuất và các ứng dụng AI.
+Công việc kết hợp giữa lập trình, xử lý dữ liệu và triển khai mô hình AI.
+Có nhiều hướng chuyên môn như Machine Learning, Deep Learning, NLP, Computer Vision và Generative AI.
+
+*Kinh nghiệm/kỹ năng cần có:
+Python.
+Kiến thức toán cơ bản: xác suất, thống kê, đại số tuyến tính.
+Machine Learning và Deep Learning.
+Các thư viện như NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow.
+Biết xử lý và phân tích dữ liệu.
+Hiểu REST API để tích hợp mô hình AI vào ứng dụng.
+Có kiến thức về SQL và Git.
+Nếu theo Generative AI: cần tìm hiểu LLM, Prompt Engineering, RAG, Vector Database và Embedding.
+Có dự án thực tế như chatbot AI, hệ thống dự đoán hoặc nhận diện hình ảnh sẽ là lợi thế.
+
+3. Tester
+*Lý do chọn công việc:
+Phù hợp với người có tư duy logic, cẩn thận và thích tìm lỗi.
+Không nhất thiết phải lập trình chuyên sâu ngay từ đầu.
+Có thể bắt đầu với Manual Testing rồi phát triển sang Automation Testing.
+Có thể làm việc trong nhiều loại dự án phần mềm.
+Có lộ trình phát triển như Tester → Senior Tester → QA/QC → Test Lead/QA Lead.
+
+*Kinh nghiệm/kỹ năng cần có:
+Hiểu quy trình phát triển phần mềm.
+Biết viết Test Case, Test Scenario.
+Biết phân loại và báo cáo Bug.
+Biết sử dụng Jira hoặc công cụ quản lý bug tương tự.
+Biết kiểm thử API bằng Postman.
+Biết SQL cơ bản để kiểm tra dữ liệu.
+Biết các loại testing: Functional, Regression, Integration, UI Testing...
